@@ -1,0 +1,28 @@
+dnsmasq-base
+dnsmasq-utils # for dhcp_release
+conntrack
+kpartx
+parted
+iputils-arping
+libmysqlclient-dev
+mysql-server # NOPRIME
+python-mysqldb
+python-mysql.connector
+libxml2-dev # needed for building lxml
+libxslt1-dev
+gawk
+iptables
+ebtables
+sqlite3
+sudo
+qemu-kvm # NOPRIME
+qemu # dist:wheezy,jessie NOPRIME
+libvirt-bin # NOPRIME
+libvirt-dev # NOPRIME
+pm-utils
+libjs-jquery-tablesorter # Needed for coverage html reports
+vlan
+curl
+genisoimage # required for config_drive
+rabbitmq-server # NOPRIME
+socat # used by ajaxterm

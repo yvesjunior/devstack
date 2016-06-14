@@ -1,0 +1,5 @@
+curl
+make
+memcached
+sqlite3
+xfsprogs

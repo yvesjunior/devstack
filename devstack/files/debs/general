@@ -1,0 +1,29 @@
+bridge-utils
+screen
+unzip
+wget
+psmisc
+gcc
+g++
+git
+graphviz # needed for docs
+lsof # useful when debugging
+openssh-server
+openssl
+iputils-ping
+wget
+curl
+tcpdump
+tar
+python-dev
+python2.7
+python-gdbm # needed for testr
+bc
+libyaml-dev
+libffi-dev # for pyOpenSSL
+libssl-dev # for pyOpenSSL
+libxml2-dev  # lxml
+libxslt1-dev  # lxml
+gettext  # used for compiling message catalogs
+openjdk-7-jre-headless  # NOPRIME
+pkg-config
